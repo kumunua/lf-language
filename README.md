@@ -57,7 +57,7 @@ lf.exe run <file.lf|file.lfb> [args...]
 lf.exe build <file.lf> [-o out.lfb]
 ```
 
-빌드 + 실행
+빌드 및 실행
 ```lf-cli
 lf.exe buildrun <file.lf> [args...]
 ```
