@@ -71,7 +71,7 @@ lf.exe buildrun <file.lf> [args...]
 
 ### 추신
 
-LF 의 모든 문법은 [여기서](https://lf.kumunua.kr/docs) 확인할 수 있어요.
+LF 의 모든 문법은 [Github Wiki](https://github.com/kumunua/lf-language/wiki/LF-Docs)나 [LF Docs](https://lf.kumunua.kr/docs)에서 확인할 수 있어요.
 
 개발자: kumunua
 
