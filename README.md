@@ -18,13 +18,17 @@ LF/
   └ WindowEngine
   └ Vector
   └ SoundManager
+  └ DataCodec
+  └ RandomKit
+  └ ColorKit
+  └ WebApplication
+  └ Progress
 ```
 
 LF 의 버전 규칙은 아래와 같아요.
 ```txt
-YY.MM.HH.BBB
-│  │  │  └─ 해당 시간대의 빌드된 횟수
-│  │  └──── 빌드된 시간
+YY.MM.B
+│  │  └──── 빌드된 번호
 │  └─────── 빌드된 달
 └────────── 빌드된 연도
 ```
