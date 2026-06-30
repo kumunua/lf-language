@@ -40,7 +40,7 @@ package System
 
 public group MyLF() {
   public function Main() {
-    System.Writeln("Hello, World!");
+    System.Writeln("Hello, LF!");
   }
 }
 ```
