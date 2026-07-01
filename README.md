@@ -75,7 +75,7 @@ lf.exe buildrun <file.lf> [args...]
 lf.exe build-exe <file.lf> [-o out.lfb]
 ```
 ```lf-cli
-lf.exe exe <file.lf> [args...]
+lf.exe exe <file.lf> [-o out.lfb]
 ```
 > `exe`는 `build-exe`의 약칭이고 같은 명령이에요.
 
