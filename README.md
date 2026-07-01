@@ -87,4 +87,4 @@ LF 의 모든 문법은 [Github Wiki](https://github.com/kumunua/lf-language/wik
 
 연락처: yongju-lee@kumunua.kr
 
-최신 버전: `26.07.1`
+최신 버전: `26.07.2`
