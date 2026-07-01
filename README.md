@@ -70,6 +70,15 @@ lf.exe build <file.lf> [-o out.lfb]
 lf.exe buildrun <file.lf> [args...]
 ```
 
+실행 파일 빌드
+```lf-cli
+lf.exe build-exe <file.lf> [-o out.lfb]
+```
+```lf-cli
+lf.exe exe <file.lf> [args...]
+```
+> `exe`는 `build-exe`의 약칭이고 같은 명령이에요.
+
 ### 추신
 
 LF 의 모든 문법은 [Github Wiki](https://github.com/kumunua/lf-language/wiki/LF-Docs)나 [LF Docs](https://lf.kumunua.kr/docs)에서 확인할 수 있어요.
